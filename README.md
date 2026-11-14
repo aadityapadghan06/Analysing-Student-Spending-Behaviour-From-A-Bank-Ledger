@@ -154,10 +154,6 @@ To use your own ledger, keep the same five columns and update the name rules in 
 - scikit-learn: Pedregosa, F., et al. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830.
 - The needs, wants and savings framing follows the 50/30/20 rule of thumb in Warren, E., & Tyagi, A. W. (2005). *All your worth: The ultimate lifetime money plan*. Free Press. It is applied here to shares of spending, not income, so treat it as indicative.
 
-## License
-
-Add a license before publishing, for example MIT. The data is synthetic.
-
 ## Author
 
-[Your name], [Course / Institution]
+Aaditya Rajesh Padghan
