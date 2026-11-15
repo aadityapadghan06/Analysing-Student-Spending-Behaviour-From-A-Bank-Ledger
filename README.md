@@ -52,27 +52,6 @@ Funding by person:
 
 The full discussion, tables and figures are in the project report (see below).
 
-## Repository structure
-
-```
-.
-├── README.md
-├── requirements.txt
-├── data/
-│   └── Financial_Ledger__September__October.xlsx      synthetic ledger
-├── src/
-│   ├── ledger_analysis.py                             full analysis, all phases
-│   └── funding_analysis.py                            funding analysis only
-├── outputs/                                           created when you run the scripts
-│   ├── ledger_clean_categorised.csv
-│   ├── ledger_analysis_tables.xlsx
-│   ├── ledger_overview.png
-│   ├── confusion_matrix.png
-│   └── funding.png
-└── report/
-    └── Spending_Behaviour_Academic_Report.docx        17-page academic report
-```
-
 ## Getting started
 
 ### Requirements
