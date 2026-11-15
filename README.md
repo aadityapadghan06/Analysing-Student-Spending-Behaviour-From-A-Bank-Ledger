@@ -3,7 +3,7 @@
 
 A data analysis project that cleans a student's bank ledger, sorts every payment into needs, wants and savings, finds the unhealthy spending patterns, and proposes a quantified plan for spending more efficiently.
 
-The analysis is written in Python and runs end to end in Google Colab or locally. It uses a **synthetic** ledger of 192 entries covering 14 September to 31 October 2026 (48 days).
+The analysis is written in Python and runs end to end in Google Colab or locally. It uses a **partially synthetic** ledger of 192 entries covering 14 September to 31 October 2026 (48 days).
 
 ## Contents
 
